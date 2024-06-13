@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://th.bing.com/th?id=OIP.es_tHgQodTWzWPMgToFlQQHaHG&w=255&h=244&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Demi Indonesia emas 2045-Sayangi Hutan Kita
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Bergabunglah
         </a>
       </header>
     </div>
